@@ -1,0 +1,38 @@
+body {
+    height: 224px;
+    width: 480px;
+    border: 1px solid;
+}
+
+main {
+
+}
+
+img {
+    float:right;
+}
+
+main section h1 {
+    display: inline-block;
+}
+
+main section h2 {
+    display: inline-block;
+}
+
+main section p {
+    display: inline-block;
+    font-size: 0.9em;
+}
+}
+
+footer {
+
+}
+
+footer p {
+    display: inline-block;
+    font-size: 0.8em;
+    margin-left: 7em;
+}
+}
